@@ -1,0 +1,3 @@
+因文件过大，无法上传github。
+烦请联系wwt@stu.scu.edu.cn索要数据。
+或可以前往https://earthengine.google.com/进行遥感波段数据下载
